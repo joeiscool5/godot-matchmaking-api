@@ -1,0 +1,10 @@
+{
+  "name": "godot-matchmaking-api",
+  "version": "1.0.0",
+  "description": "Simple matchmaking API for Godot P2P games",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
